@@ -54,11 +54,15 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Services</h3>
             <ul className="space-y-2 text-gray-300">
-              <li>Diabetic Foot Care</li>
-              <li>Nail Care & Trimming</li>
-              <li>Corn/Callus Removal</li>
-              <li>Fungal Nail Treatment</li>
-              <li>Wound Assessment</li>
+              <li>Advanced Foot Care</li>
+              <li>Corn And Callus Removal</li>
+              <li>Ingrown/Overgrown Toenail Removal</li>
+              <li>Cut And Trim Toe Nails</li>
+              <li>Fungal Nail</li>
+              <li>Diabetic Foot Assessment</li>
+              <li>Patient Education</li>
+              <li>Dry Skin And Fissure Treatment</li>
+              <li>Athlete's Foot Treatment</li>
             </ul>
           </div>
         </div>

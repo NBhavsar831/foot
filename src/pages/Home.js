@@ -600,7 +600,7 @@ const Home = () => {
               transition={{ duration: 0.8, delay: 0.4 }}
               className="text-xl md:text-2xl mb-12 max-w-4xl mx-auto leading-relaxed font-light"
             >
-              Quality foot care in the comfort of your home
+              Quality foot care in the comfort at your home
             </motion.p>
             
             <div className="flex flex-col sm:flex-row justify-center gap-4 mb-8">
